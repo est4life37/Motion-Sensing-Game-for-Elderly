@@ -1,5 +1,6 @@
 # Motion-Sensing-Game-for-Elderly
-![game interface]("C:\Users\Lenovo\Desktop\Hackathon\背景图1.png")
+
+![game interface](./背景图1.png)
 
 The initial version of this game was created at the "Youth Innovation for Senior Citizens" Game Development Hackathon held by CityUHK, with a period of three days.
 
